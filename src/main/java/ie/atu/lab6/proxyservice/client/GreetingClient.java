@@ -1,4 +1,4 @@
-package ie.atu.lab6.proxyservice;
+package ie.atu.lab6.proxyservice.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
