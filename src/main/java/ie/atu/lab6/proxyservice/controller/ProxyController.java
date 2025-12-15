@@ -1,5 +1,6 @@
-package main.java.ie.atu.lab6.proxyservice;
+package ie.atu.lab6.proxyservice.controller;
 
+import ie.atu.lab6.proxyservice.client.GreetingClient;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
